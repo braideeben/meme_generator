@@ -54,3 +54,6 @@ main{
   color:white;
   border: none;
 }
+.meme--image{
+  max-width: 100%;
+}
